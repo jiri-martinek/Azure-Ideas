@@ -7,3 +7,4 @@
   - [Azure_Naming_Convention.md](./Naming/Azure_Naming_Convention.md) — concrete naming convention templates and example name patterns you can adopt or adapt.
   - [Azure_Naming_Own_Name_Place_EN.md](./Naming/Azure_Naming_Own_Name_Place_EN.md) — onother naming convention templates based separation name and id.
 
+## 
